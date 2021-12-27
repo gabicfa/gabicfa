@@ -24,3 +24,5 @@
    ![Snake animation](https://github.com/gabicfa/gabicfa/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+ 
